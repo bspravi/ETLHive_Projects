@@ -1,1 +1,1 @@
-This is my second file. Now I would like to see the conflict scenario
+This is my second file and will be used for our project.
